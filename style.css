@@ -1,0 +1,208 @@
+.color{
+    color:rgb(243, 135, 96);
+}
+body{
+    font-family: 'Catamaran', sans-serif;
+}
+h1{
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: bolder;
+    color: rgb(64, 67, 75);
+}
+h2{
+    font-size: 40px;
+    color: rgb(64, 67, 75);
+}
+.flexible-container-top-banner{
+    display: flex;
+    margin: 60px;
+}
+.flexible-container-middle-banner{
+    display: flex;
+
+}
+.flexible-container-recipi-title{
+    display: flex;
+    width: 27%;
+    height: 540px;
+    margin-left:5%;
+    margin-right: 8%px;
+
+
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(243, 104, 39),rgba(255, 60, 0, 0.247));
+    color: white;
+    font-weight: 500;
+    padding: 18px 52px;
+    border-radius: 50px;
+    margin-top: 500px;
+}
+.margin-top-banner{
+    margin-top: 180px;
+}
+.margin-link-button{
+    margin-top: 80px;
+}
+
+
+p{
+    font-size: 20px;
+    color: rgb(113, 115, 117);
+    margin-right: 20px;
+}
+#image-size{
+    height: 520px;
+    margin-top: 70px;
+    margin-left: 150px;
+
+}
+.recipi-image-size{
+    height: 220px;
+    width: 310px;
+    border-radius: 20px;
+}
+.middle-banner{
+    background-image:url(images/shapes/7.png);
+
+}
+#rashel{
+    margin-top: 80px;
+}
+.paragraph{
+    color: black;
+    margin-right: 25%;
+
+}
+.my-paragraph{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: lighter;
+    color: black;
+}
+.recipi{
+    text-align:center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.recipi-title-box{
+    border:15px white solid;
+
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-right: 10%;
+    margin-left: 10%;
+    box-shadow:-2px -2px 15px 15px rgba(0,0,0,0.10);
+
+}
+.recipi-name{
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    font
+}
+.recipi-paragraph{
+    color: rgb(34, 32, 32);
+}
+.number-box{
+
+    margin-right: 200px;
+}
+.flexible-container-numbers{
+    display: flex;
+    width: 30%;
+    margin-left:20% ;
+    margin-right: 20%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+    
+}
+#padding{
+    padding-top: 100px;
+}
+
+
+footer{
+
+    background-color:black ;
+    height: 250px;
+}
+.flexible-container-footer{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+#contact{
+    font-size: 30px;
+    
+}
+.logo-image{
+    height: 40px;
+    width: 50px;
+}
+#gmail{
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    padding-left: 10px;
+    
+}
+#phone{
+    text-decoration: none;
+    color:yellow;
+    font-size: 20px;
+    padding-left: 10px;
+
+}
+#food-fun{
+    text-align: center;
+    font-size: 30px;
+}
+#food{
+    color: coral;
+
+}
+.fun{
+    margin-left: 200px;
+}
+.make-money{
+    padding-top:10px ;
+    padding-left: 50px;
+    line-height:1;
+}
+#money{
+    font-size: 30px;
+    
+}
+#sell{
+    font-size: 20px;
+    color: yellow;
+    font-weight: lighter;
+}
+#sub{
+    text-decoration: none;
+    font-weight: lighter;
+    color: yellow;
+    border: 2px white solid;
+
+}
+#eat-healthy{
+    text-align: center;
+    color: white;
+    font-style: inherit;
+    font-weight:lighter;
+    font-size: 18px;
+}
